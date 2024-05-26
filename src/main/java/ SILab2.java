@@ -2,7 +2,7 @@ import java.util.List;
 
 class Item {
     String name;
-    String barcode; //numerical
+    String barcode;
     int price;
     float discount;
 
